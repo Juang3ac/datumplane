@@ -55,7 +55,7 @@ Desarrollo web | SEO | Analítica
         <div class="flex xl:flex-row flex-wrap content-center justify-center sm:flex-col">
             <div id="card" class="w-1/4 p-8 border m-8 border-background rounded-xl bg-background flex flex-col">
                 <p class="sub-heading">Sub heading de card</p>
-                <p class="">Párrafo del la tarjeta así nada más como debería ser. 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)</p>
+                <p class="">Párrafo del la tarjeta así nada más como debería ser. 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like) texto de prueba</p>
 
                 <a href="#" class="text-right">Saber más alv <ion-icon name="bandage" class="text-button w-6 h-6"></ion-icon></a>
             </div>
@@ -78,7 +78,7 @@ Desarrollo web | SEO | Analítica
 
             <div id="card" class="w-1/4 p-8 border m-8 border-background rounded-xl bg-background">
                 <p class="sub-heading">Sub heading de card</p>
-                <p class="">Párrafo del la tarjeta así nada más como debería ser. 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)</p>
+                <p class="">Párrafo del la tarjeta así nada más como debería ser. 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions otro cambio agregado s by accident, sometimes on purpose (injected humour and the like)</p>
             </div>
         </div>
     </div>
