@@ -44,7 +44,7 @@ Desarrollo web | SEO | Analítica
         <h5>Heading 5</h5>
         <h6>Header 6</h6>
         <br>
-        <p class="sub-heading text-background">Sub heading</p>
+        <p class="sub-heading text-background">Sub heading text</p>
         <p class="first-letter:text-4xl text-paragraph-b">At is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less <a href="#">Y esto es un URL <ion-icon name="home"></ion-icon></a> normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
         </p>
         <br>
